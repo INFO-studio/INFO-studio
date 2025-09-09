@@ -1,7 +1,7 @@
 # [InfoC 茵符草](https://info-c.cn)
 
 - Study at: CQU 重庆大学
-- Work at: ByteDance VolcEngine 字节跳动火山引擎
+- Work at: ByteDance TikTok 字节跳动 TikTok
 
 ## 欢迎来[主页](https://info-c.cn)看看
 
